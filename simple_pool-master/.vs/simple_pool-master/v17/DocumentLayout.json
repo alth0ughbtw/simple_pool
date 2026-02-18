@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\intro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\intro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\mainwindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\mainwindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\observer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\observer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\rect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\rect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\subject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gamestate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\font.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\font.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\exception.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\exception.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\cue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\cue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\collisionobserver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\collisionobserver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\audioobserver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\audioobserver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\FindPackageHandleStandardArgs.cmake||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "texture.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\texture.cpp",
+              "RelativeDocumentMoniker": "src\\texture.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\texture.cpp",
+              "RelativeToolTip": "src\\texture.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:24:32.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "table.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\table.cpp",
+              "RelativeDocumentMoniker": "src\\table.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\table.cpp",
+              "RelativeToolTip": "src\\table.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:23:48.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "subject.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\subject.cpp",
+              "RelativeDocumentMoniker": "src\\subject.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\subject.cpp",
+              "RelativeToolTip": "src\\subject.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:23:45.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "rect.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\rect.cpp",
+              "RelativeDocumentMoniker": "src\\rect.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\rect.cpp",
+              "RelativeToolTip": "src\\rect.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:23:20.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "observer.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\observer.cpp",
+              "RelativeDocumentMoniker": "src\\observer.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\observer.cpp",
+              "RelativeToolTip": "src\\observer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:22:59.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "music.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\music.cpp",
+              "RelativeDocumentMoniker": "src\\music.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\music.cpp",
+              "RelativeToolTip": "src\\music.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:22:50.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainwindow.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\mainwindow.cpp",
+              "RelativeDocumentMoniker": "src\\mainwindow.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\mainwindow.cpp",
+              "RelativeToolTip": "src\\mainwindow.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:22:43.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:22:03.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "level.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\level.cpp",
+              "RelativeDocumentMoniker": "src\\level.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\level.cpp",
+              "RelativeToolTip": "src\\level.cpp",
+              "ViewState": "AgIAALABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:21:33.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "intro.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\intro.cpp",
+              "RelativeDocumentMoniker": "src\\intro.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\intro.cpp",
+              "RelativeToolTip": "src\\intro.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:21:06.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gamestate.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\gamestate.cpp",
+              "RelativeDocumentMoniker": "src\\gamestate.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\gamestate.cpp",
+              "RelativeToolTip": "src\\gamestate.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:20:27.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "font.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\font.cpp",
+              "RelativeDocumentMoniker": "src\\font.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\font.cpp",
+              "RelativeToolTip": "src\\font.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:20:21.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "exception.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\exception.cpp",
+              "RelativeDocumentMoniker": "src\\exception.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\exception.cpp",
+              "RelativeToolTip": "src\\exception.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:20:15.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "cue.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\cue.cpp",
+              "RelativeDocumentMoniker": "src\\cue.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\cue.cpp",
+              "RelativeToolTip": "src\\cue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:20:09.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "collisionobserver.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\collisionobserver.cpp",
+              "RelativeDocumentMoniker": "src\\collisionobserver.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\collisionobserver.cpp",
+              "RelativeToolTip": "src\\collisionobserver.cpp",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:19:54.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ball.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\ball.cpp",
+              "RelativeDocumentMoniker": "src\\ball.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\ball.cpp",
+              "RelativeToolTip": "src\\ball.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:19:50.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "audioobserver.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\audioobserver.cpp",
+              "RelativeDocumentMoniker": "src\\audioobserver.cpp",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\src\\audioobserver.cpp",
+              "RelativeToolTip": "src\\audioobserver.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-08T20:19:47.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FindPackageHandleStandardArgs.cmake",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\FindPackageHandleStandardArgs.cmake",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\FindPackageHandleStandardArgs.cmake",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\FindPackageHandleStandardArgs.cmake",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.31\\Modules\\FindPackageHandleStandardArgs.cmake",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAOgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-07T16:16:24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-07T16:02:04.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\\u0430\u0440\u0442\u0435\u043C\\source\\repos\\simple_pool-master\\simple_pool-master\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-07T16:16:09.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
