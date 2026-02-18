@@ -1,5 +1,6 @@
 #include "level.h"
 #include "mainwindow.h"
+#include "ballinhandstate.h"
 
 #include <algorithm>
 #include <cmath>
@@ -198,6 +199,11 @@ void Level::check_pocket(Ball& b)
         b.removeObserver(&collobserver);
         b.is_movable = false;
         b.is_visible = false;
+        if (&b == &cueball)
+        {
+            changeState(std::make_unique<BallInHandState>(this));
+            return;
+        }
 
         pockets.push_back(b.id);
     }

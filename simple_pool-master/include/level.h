@@ -38,6 +38,11 @@ class Level : public GameState {
 public:
     Level();
 
+    Ball* getWhiteBall() { return &cueball; }
+
+    virtual void handle_events() override;
+
+
     virtual void handle_events() override;
     virtual void logic() override;
     virtual void render() override;
